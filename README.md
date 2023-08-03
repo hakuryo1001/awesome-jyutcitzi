@@ -19,19 +19,37 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 - [A Guide to Jyutcitzi (Part 1)](https://haemzbaengzlaengz.medium.com/a-guide-to-jyutcitzi-part-1-of-many-to-come-f6fc8811274d)
 - [A Guide to Jyutcitzi (Part 2)](https://haemzbaengzlaengz.medium.com/a-guide-to-jyutcitzi-part-2-of-many-to-come-fbf229c37d91)
 - [【粵文一日用口字旁，粵語就一日係方言】](https://medium.com/@jyutzigoigakhokwui/%E7%B2%B5%E6%96%87%E4%B8%80%E6%97%A5%E7%94%A8%E5%8F%A3%E5%AD%97%E6%97%81-%E7%B2%B5%E8%AA%9E%E5%B0%B1%E4%B8%80%E6%97%A5%E4%BF%82%E6%96%B9%E8%A8%80-167d6978442)
-- How to display JCZ on your browser? ｜點樣先至喺 browser 度睇到粵切字？｜  樣先至 󱪙󰧵 睇 󰧱 粵切字？
-- 拉丁化係粵切字嘗試避免嘅命運
-- 點解漢字專用粵文對廣東話黎講係慢性自殺 粵切字可「有邊讀邊」，毋需教育局，就可無師自通 囻之語音
-- On the whole, Jyutcitzi is preferable to Jyutping
-- 囻之語音｜ ——諺文  廣東話書面語運動  啓示
-- 麥花臣金將軍與白龍的對談
-- 粵文書寫方式續探
+- [How to display JCZ on your browser? ｜點樣先至喺 browser 度睇到粵切字？｜  樣先至 󱪙󰧵 睇 󰧱 粵切字？](https://medium.com/@jyutzigoigakhokwui/how-to-display-jcz-on-your-browser-%E9%BB%9E%E6%A8%A3%E5%85%88%E8%87%B3%E5%96%BA-browser-%E5%BA%A6%E7%9D%87%E5%88%B0%E7%B2%B5%E5%88%87%E5%AD%97-%E6%A8%A3%E5%85%88%E8%87%B3-%E7%9D%87-%E7%B2%B5%E5%88%87%E5%AD%97-1050306c3d39)
+- [拉丁化係粵切字嘗試避免嘅命運](https://medium.com/@jyutzigoigakhokwui/%E6%8B%89%E4%B8%81%E5%8C%96%E4%BF%82%E7%B2%B5%E5%88%87%E5%AD%97%E5%98%97%E8%A9%A6%E9%81%BF%E5%85%8D%E5%98%85%E5%91%BD%E9%81%8B-4e95d222c92b)
+- [點解漢字專用粵文對廣東話黎講係慢性自殺](https://medium.com/@jyutzigoigakhokwui/%E9%BB%9E%E8%A7%A3%E6%BC%A2%E5%AD%97%E5%B0%88%E7%94%A8%E7%B2%B5%E6%96%87%E5%B0%8D%E5%BB%A3%E6%9D%B1%E8%A9%B1%E9%BB%8E%E8%AC%9B%E4%BF%82%E6%85%A2%E6%80%A7%E8%87%AA%E6%AE%BA-8278eb4be8da)
+- [粵切字可「有邊讀邊」，毋需教育局，就可無師自通](https://medium.com/@jyutzigoigakhokwui/%E7%B2%B5%E5%88%87%E5%AD%97%E5%8F%AF-%E6%9C%89%E9%82%8A%E8%AE%80%E9%82%8A-%E6%AF%8B%E9%9C%80%E6%95%99%E8%82%B2%E5%B1%80-%E5%B0%B1%E5%8F%AF%E7%84%A1%E5%B8%AB%E8%87%AA%E9%80%9A-e3ff565e8871)
+- [囻之語音](https://medium.com/@jyutzigoigakhokwui/%E5%9B%BB%E4%B9%8B%E8%AA%9E%E9%9F%B3-%E8%AB%BA%E6%96%87-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E6%9B%B8%E9%9D%A2%E8%AA%9E%E9%81%8B%E5%8B%95-%E5%95%93%E7%A4%BA-9f5839b69da3)
+- [囻之語音 - ](https://medium.com/@jyutzigoigakhokwui/%E5%9B%BB%E4%B9%8B%E8%AA%9E%E9%9F%B3-2fc93db95bae)
+- [On the whole, Jyutcitzi is preferable to Jyutping](https://medium.com/@jyutzigoigakhokwui/using-jyutping-to-teach-cantonese-would-indeed-be-extremely-helpful-for-the-education-and-906a4306a2b9)
+- [囻之語音｜ ——諺文  廣東話書面語運動  啓示](https://medium.com/@jyutzigoigakhokwui/%E5%9B%BB%E4%B9%8B%E8%AA%9E%E9%9F%B3-%E8%AB%BA%E6%96%87-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E6%9B%B8%E9%9D%A2%E8%AA%9E%E9%81%8B%E5%8B%95-%E5%95%93%E7%A4%BA-9f5839b69da3)
+- [麥花臣金將軍與白龍的對談](https://archive.org/details/20230105_20230105_0543)
+
 - greeninvisibledreams on jyutcitzi
-- A natural jyutcitzi: 𢞵
+
 - Widenhof: writing non-Mandarin Sinitic
 
-Other resources
+### Naturally occuring Jyutcitzi
 
+- [𢞵](https://words.hk/zidin/%F0%A2%9E%B5)
+- 𫼸
+
+### Honzi invented for foreign words
+
+- [𨋢 for "lift"](https://zh-yue.wikipedia.org/wiki/%F0%A8%8B%A2)
+- [𥈲 for "keep"](http://www.cantonese.sheik.co.uk/dictionary/words/31528/)
+
+### Mentions
+
+[對《粵切字改革方案》嘅一啲諗法](http://el-essays.blogspot.com/2020/12/thoughts-on-cantonese-transliteration.html)
+
+### Other resources
+
+- [粵文書寫方式續探](https://chaaak.medium.com/cantonese-standardisation-revisit-b0777e2c6920)
 - IG: Jyutcitzi Calligraphy 1
 - IG: Jyutcitzi Calligraphy 2
 - IG: Jyutcitzi Calligraphy 3
