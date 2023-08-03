@@ -1,7 +1,5 @@
 A curated list of awesome resources on Jyutcitzi 粵切字 。
 
-Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
-
 - [Jyutcitzi GitHub master page](https://github.com/jyutcitzi)
 - [Transliterator](https://github.com/jyutcitzi/jyutcitzi-transliterate), python translates Honzi-English Cantonese passages into Honzi-Jyutcitzi passages.
 - [Jyutcitzi RIME based keyboard](https://github.com/jyutcitzi/jyutcitzi-RIME)
@@ -28,8 +26,7 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 - [On the whole, Jyutcitzi is preferable to Jyutping](https://medium.com/@jyutzigoigakhokwui/using-jyutping-to-teach-cantonese-would-indeed-be-extremely-helpful-for-the-education-and-906a4306a2b9)
 - [囻之語音｜ ——諺文  廣東話書面語運動  啓示](https://medium.com/@jyutzigoigakhokwui/%E5%9B%BB%E4%B9%8B%E8%AA%9E%E9%9F%B3-%E8%AB%BA%E6%96%87-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E6%9B%B8%E9%9D%A2%E8%AA%9E%E9%81%8B%E5%8B%95-%E5%95%93%E7%A4%BA-9f5839b69da3)
 - [麥花臣金將軍與白龍的對談](https://archive.org/details/20230105_20230105_0543)
-
-- greeninvisibledreams on jyutcitzi
+- [Greeninvisibledreams on jyutcitzi](https://zh-yue.wikipedia.org/wiki/User:Greeninvisibledreams)
 
 ### Naturally occuring Jyutcitzi
 
@@ -43,13 +40,19 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 
 ### Mentions
 
-[對《粵切字改革方案》嘅一啲諗法](http://el-essays.blogspot.com/2020/12/thoughts-on-cantonese-transliteration.html)
-[Widenhof: writing non-Mandarin Sinitic](https://wiedenhof.nl/ul/sgfx2122.htm)
+- [對《粵切字改革方案》嘅一啲諗法](http://el-essays.blogspot.com/2020/12/thoughts-on-cantonese-transliteration.html)
+- [Widenhof: writing non-Mandarin Sinitic](https://wiedenhof.nl/ul/sgfx2122.htm)
+- [香港人首創　粵文強化方案　拼音方塊漢字(粵音)　將會追上日文英文消化外來詞](https://lihkg.com/thread/3460614/page/1)
+
+### Art work & visuals
+
+- [IG: Twistane](https://www.instagram.com/twis6tein1/?igshid=NTc4MTIwNjQ2YQ%3D%3D)
+- [IG: Hewlam](https://www.instagram.com/hewlam.st/?igshid=NTc4MTIwNjQ2YQ==)
 
 ### Other resources
 
 - [粵文書寫方式續探](https://chaaak.medium.com/cantonese-standardisation-revisit-b0777e2c6920)
-- IG: Jyutcitzi Calligraphy 1
+
 - IG: Jyutcitzi Calligraphy 2
 - IG: Jyutcitzi Calligraphy 3
 - IG: Jyutcitzi Calligraphy 4
@@ -59,15 +62,16 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 - IG cantonese_new_script
 - IG cantonesescriptreformprogress
 - 粵切字例文
-- 香港人首創　粵文強化方案　拼音方塊漢字(粵音)　將會追上日文英文消化外來詞
-- 粵切字嘅延伸部件 FAQ
-  Q: What is the Cantonese Script Reform Project?
-  A: The Cantonese Script Reform Project (Jyutcitzi) is an initiative to develop a standardized written system for the Cantonese language that enhances its accessibility and preserves its unique linguistic features. The project aims to create a script that runs parallel with Chinese characters while maintaining aesthetic congruence.
-  Q: Why do we need a script reform for Cantonese?
-  A: While Cantonese speakers have traditionally used Chinese characters, there is a need for a standardized writing system that better represents the spoken language. A script reform would enable the creation of written works that are more true to the Cantonese language, bridging the gap between written and spoken forms.
-  Q: What is Jyutcitzi?
-  A: Jyutcitzi (JCZ: , Honzi: 粵切字) is a new script for Cantonese. Jyutcitzi is the core proposal of the Cantonese Script Reform Movement, which advocates for the adoption of Jyutcitzi to complement Chinese characters to complete the development of Cantonese writing.
-  Jyutcitzi, unlike Chinese characters, is a phonetic script. To write a Cantonese word in Jyutcitzi, you use the principle of faan-cit (JCZ: , Honzi: 反切 ) to divide up the word into a initial onset and a final onset. These onsets are then mapped into their respective Jyutcitzi letters, which is Chinese character with the same initial or final. The two letters are then combined to produce a third character. Diacritics may be added to represent the tone. So for example, for the word "Jyut6" (粵, classical name for the Cantonese region), the factorisation would be:
+
+粵切字嘅延伸部件 FAQ
+Q: What is the Cantonese Script Reform Project?
+A: The Cantonese Script Reform Project (Jyutcitzi) is an initiative to develop a standardized written system for the Cantonese language that enhances its accessibility and preserves its unique linguistic features. The project aims to create a script that runs parallel with Chinese characters while maintaining aesthetic congruence.
+Q: Why do we need a script reform for Cantonese?
+A: While Cantonese speakers have traditionally used Chinese characters, there is a need for a standardized writing system that better represents the spoken language. A script reform would enable the creation of written works that are more true to the Cantonese language, bridging the gap between written and spoken forms.
+Q: What is Jyutcitzi?
+A: Jyutcitzi (JCZ: , Honzi: 粵切字) is a new script for Cantonese. Jyutcitzi is the core proposal of the Cantonese Script Reform Movement, which advocates for the adoption of Jyutcitzi to complement Chinese characters to complete the development of Cantonese writing.
+Jyutcitzi, unlike Chinese characters, is a phonetic script. To write a Cantonese word in Jyutcitzi, you use the principle of faan-cit (JCZ: , Honzi: 反切 ) to divide up the word into a initial onset and a final onset. These onsets are then mapped into their respective Jyutcitzi letters, which is Chinese character with the same initial or final. The two letters are then combined to produce a third character. Diacritics may be added to represent the tone. So for example, for the word "Jyut6" (粵, classical name for the Cantonese region), the factorisation would be:
+
 - J → 央
 - yut → 乙
 - tone 6 → ゛
