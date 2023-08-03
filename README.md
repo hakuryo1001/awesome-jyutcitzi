@@ -31,8 +31,6 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 
 - greeninvisibledreams on jyutcitzi
 
-- Widenhof: writing non-Mandarin Sinitic
-
 ### Naturally occuring Jyutcitzi
 
 - [𢞵](https://words.hk/zidin/%F0%A2%9E%B5)
@@ -46,6 +44,7 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 ### Mentions
 
 [對《粵切字改革方案》嘅一啲諗法](http://el-essays.blogspot.com/2020/12/thoughts-on-cantonese-transliteration.html)
+[Widenhof: writing non-Mandarin Sinitic](https://wiedenhof.nl/ul/sgfx2122.htm)
 
 ### Other resources
 
