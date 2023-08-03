@@ -6,19 +6,19 @@ Title: Welcome to r/Jyutcitzi - the community for Cantonese Script Reform 🎉
 - [Transliterator](https://github.com/jyutcitzi/jyutcitzi-transliterate), python translates Honzi-English Cantonese passages into Honzi-Jyutcitzi passages.
 - [Jyutcitzi RIME based keyboard](https://github.com/jyutcitzi/jyutcitzi-RIME)
 - [Jyutcitzi fonts](https://github.com/jyutcitzi/jyutcitzi-fonts)
-- Theoretical core
-- Wikipedia (Cantonese)
-- Website (with a lot of JCZ essays) https://jyutcitzi.github.io/
-- YouTube: 粵切字：粵字改革方案 | Jyutcitzi : A Cantonese Script Reform Proposal
-- JCZ-enabled talk page (JCZ are automatically rendered): https://cantotalk.com/
-- Online traditional Chinese to Jyutcitzi converter: https://cantotalk.com/t.php?style=honzi_jcz&mode=font&subject=%E5%91%A2%E5%9A%BF%E5%98%A2%E4%BF%82%E6%BC%A2%E5%AD%97%E7%B2%B5%E5%88%87%E5%AD%97%E7%B2%B5%E6%8B%BC%E8%BD%89%E6%8F%9B%E5%99%A8
-- Omniglot page on Jyutcitzi
-- Internet Archive Collection on Jyutcitzi
-- 粵字改革宣言
-- Cantonese Script Reform Now!
-- A Guide to Jyutcitzi (Part 1)
-- A Guide to Jyutcitzi (Part 2)
-- 【粵文一日用口字旁，粵語就一日係方言】
+- [Theoretical core - 粵字改革](https://archive.org/details/20230105_20230105_0509)
+- [Wikipedia (Cantonese)](https://zh-yue.wikipedia.org/wiki/%E7%B2%B5%E5%88%87%E5%AD%97)
+- [Website (with a lot of JCZ essays)](https://jyutcitzi.github.io/)
+- [YouTube: 粵切字：粵字改革方案 | Jyutcitzi : A Cantonese Script Reform Proposal](https://www.youtube.com/watch?v=7WzZ8jfi1aA&ab_channel=CantoneseScriptReformSociety)
+- [JCZ-enabled talk page (JCZ are automatically rendered)](https://cantotalk.com/)
+- [Online traditional Chinese to Jyutcitzi converter](https://cantotalk.com/t.php?style=honzi_jcz&mode=font&subject=%E5%91%A2%E5%9A%BF%E5%98%A2%E4%BF%82%E6%BC%A2%E5%AD%97%E7%B2%B5%E5%88%87%E5%AD%97%E7%B2%B5%E6%8B%BC%E8%BD%89%E6%8F%9B%E5%99%A8)
+- [Omniglot page on Jyutcitzi](https://omniglot.com/conscripts/jyutcitzi.htm)
+-
+- [粵字改革宣言](https://medium.com/@jyutzigoigakhokwui/%E7%B2%B5%E5%AD%97%E6%94%B9%E9%9D%A9%E5%AE%A3%E8%A8%80-14376428b9c)
+- [Cantonese Script Reform Now!](https://medium.com/@jyutzigoigakhokwui/cantonese-script-reform-now-857ee6c92271)
+- [A Guide to Jyutcitzi (Part 1)](https://haemzbaengzlaengz.medium.com/a-guide-to-jyutcitzi-part-1-of-many-to-come-f6fc8811274d)
+- [A Guide to Jyutcitzi (Part 2)](https://haemzbaengzlaengz.medium.com/a-guide-to-jyutcitzi-part-2-of-many-to-come-fbf229c37d91)
+- [【粵文一日用口字旁，粵語就一日係方言】](https://medium.com/@jyutzigoigakhokwui/%E7%B2%B5%E6%96%87%E4%B8%80%E6%97%A5%E7%94%A8%E5%8F%A3%E5%AD%97%E6%97%81-%E7%B2%B5%E8%AA%9E%E5%B0%B1%E4%B8%80%E6%97%A5%E4%BF%82%E6%96%B9%E8%A8%80-167d6978442)
 - How to display JCZ on your browser? ｜點樣先至喺 browser 度睇到粵切字？｜  樣先至 󱪙󰧵 睇 󰧱 粵切字？
 - 拉丁化係粵切字嘗試避免嘅命運
 - 點解漢字專用粵文對廣東話黎講係慢性自殺 粵切字可「有邊讀邊」，毋需教育局，就可無師自通 囻之語音
